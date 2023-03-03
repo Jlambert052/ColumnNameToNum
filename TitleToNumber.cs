@@ -9,11 +9,24 @@ public class Solution {
 
             res += temp;
         }
+        System.Console.WriteLine($"{columnTitle} translates to the number {res}");
         return res;
     }
 
-    public int TitleToNumber(string columnTitle) {
+    public int TitleToNum2(string columnTitle) {
+        char[] alphabet = " ABCDEFGHIJKLMNOPQRSTUVWXYZ".ToCharArray();
 
-        
+            int TitleLength = columnTitle.Length - 1;
+            int index = 0;
+            int sum = 0;
+
+            while(TitleLength >= 0) {
+                char currentChar = columnTitle[index];
+                int multiple =  Array.FindIndex(alphabet, alphaChar => alphaChar == currentChar);
+                sum += (int)Math.Pow(26, TitleLength) * multiple;
+                TitleLength--;
+                index++;
+            }
+            return sum;
     }
 }

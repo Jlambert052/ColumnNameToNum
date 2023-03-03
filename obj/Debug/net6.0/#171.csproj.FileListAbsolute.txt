@@ -1,0 +1,15 @@
+C:\Program Files (x86)\Programming\Repos\LeetCode\#171\obj\Debug\net6.0\#171.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Programming\Repos\LeetCode\#171\obj\Debug\net6.0\#171.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Programming\Repos\LeetCode\#171\obj\Debug\net6.0\#171.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Programming\Repos\LeetCode\#171\obj\Debug\net6.0\#171.AssemblyInfo.cs
+C:\Program Files (x86)\Programming\Repos\LeetCode\#171\obj\Debug\net6.0\#171.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Programming\Repos\LeetCode\#171\bin\Debug\net6.0\#171.exe
+C:\Program Files (x86)\Programming\Repos\LeetCode\#171\bin\Debug\net6.0\#171.deps.json
+C:\Program Files (x86)\Programming\Repos\LeetCode\#171\bin\Debug\net6.0\#171.runtimeconfig.json
+C:\Program Files (x86)\Programming\Repos\LeetCode\#171\bin\Debug\net6.0\#171.dll
+C:\Program Files (x86)\Programming\Repos\LeetCode\#171\bin\Debug\net6.0\#171.pdb
+C:\Program Files (x86)\Programming\Repos\LeetCode\#171\obj\Debug\net6.0\#171.dll
+C:\Program Files (x86)\Programming\Repos\LeetCode\#171\obj\Debug\net6.0\refint\#171.dll
+C:\Program Files (x86)\Programming\Repos\LeetCode\#171\obj\Debug\net6.0\#171.pdb
+C:\Program Files (x86)\Programming\Repos\LeetCode\#171\obj\Debug\net6.0\#171.genruntimeconfig.cache
+C:\Program Files (x86)\Programming\Repos\LeetCode\#171\obj\Debug\net6.0\ref\#171.dll
